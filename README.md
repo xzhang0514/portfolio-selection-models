@@ -5,6 +5,6 @@
 * An application of principal component analysis. 
 ## Requirement
 * qml:
-** Q math library
-** https://github.com/zholos/qml
+..* Q math library
+..* https://github.com/zholos/qml
   
