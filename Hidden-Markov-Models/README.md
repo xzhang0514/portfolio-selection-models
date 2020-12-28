@@ -34,3 +34,5 @@ sprtn,'flip`probabilityInStateA`probabilityInStateB!flip .1*-.5+res[`gamma]
 
 [logo]: https://github.com/xzhang0514/portfolio-selection-models/blob/main/Hidden-Markov-Models/results-visualization "Regime-Switching"
 
+Remarks: The results capture the transition of market between calm states and agitated states very well. Calm states are characterized by low volatility vs. agitated states by high volatility.    
+
