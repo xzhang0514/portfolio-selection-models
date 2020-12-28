@@ -32,5 +32,5 @@ sprtn,'flip`probabilityInStateA`probabilityInStateB!flip .1*-.5+res[`gamma]
 
 ![alt text][logo]
 
-[logo]: https://github.com/xzhang0514/portfolio-selection-models/blob/main/Hidden-Markov-Models/results-visualization "Logo Title Text 2"
+[logo]: https://github.com/xzhang0514/portfolio-selection-models/blob/main/Hidden-Markov-Models/results-visualization "Regime-Switching"
 
