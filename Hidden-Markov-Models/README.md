@@ -25,3 +25,12 @@ iniPara:xInitialTest[dat];
 (forwardBackward[dat;])/[constraint[tol;maxIter;]; iniPara]
 ```
 
+* Visualize the results:
+```
+sprtn,'flip`probabilityInStateA`probabilityInStateB!flip .1*-.5+res[`gamma]
+```
+
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
