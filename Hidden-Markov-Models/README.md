@@ -1,4 +1,6 @@
 # Introduction
+  Markets evolve through various statistical regimes, sometimes calmly and sometimes agitatedly. A common approach to address this issue is GARCH models. While they can capture "volatility clustering", it fails at producing abruptly changes, especially from calm to agitated periods. 
+  The Hidden Markov Model approach relies on a hidden feature, that is the parameters of a multivariate Gaussian distribution. Drifts and covariances vary through time in a purely discontinuous manner, jumping from one value to another. This structure enables HMM to reproduce jump processes.  
 # Usage
   * Start a brand new kdb instance (with a database and qml loaded).
   * Load the script using: `system"l /path/to/HMM.q"`.
