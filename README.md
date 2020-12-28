@@ -4,5 +4,6 @@
 * An application of mean-variance optimization method to select portfolios.
 * An application of principal component analysis. 
 ## Requirement
-* qml
-  https://github.com/zholos/qml
+* qml:Q math library
+- https://github.com/zholos/qml
+  
